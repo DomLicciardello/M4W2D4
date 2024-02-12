@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #181819 !important;
+}
+
+.cardBook {
+    width: 15rem;
+    border: solid 1px rgb(120, 120, 120);
+    margin: 5px;
+    padding: 15px;
+}
+
+/*.card-img-top {
+    IMMAGINE COVER
+}
+*/
+
+.style_title {
+    color: white;
+}
+
+.style_info {
+    color: #929292;
+}
+
+.button_card_style {
+    margin-left: 10px !important;
+    background-color: rgba(255, 255, 255, 0.5) !important;
+    border: rgba(255, 255, 255, 0.5) !important;
+}
